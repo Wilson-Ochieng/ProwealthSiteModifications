@@ -33,7 +33,7 @@
 					
 					<div class="row mb-5">
 						<div class="col">
-							<img class="float-left img-fluid mr-4 mb-3 mt-2 appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="600" width="350" src="img/travel-i.jpg" alt="">
+							<img class="float-left img-fluid mr-4 mb-3 mt-2 appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="600" width="350" src="img/travel2.jpeg" alt="">
 							<p class="appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="800"><b>Keeping you and your valuables safe - Worldwide.</b></p>
 							
 						</div>

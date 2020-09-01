@@ -118,7 +118,7 @@
                 data-start="800" 
                 data-fontsize="40"
                 style="letter-spacing: -2px;" 
-                data-transform_in="y:[-300%];opacity:0;s:500;">Wealth And Investment Insurance</h1></center>
+                data-transform_in="y:[-300%];opacity:0;s:500;">Wealth and Investment Advisory</h1></center>
 
              
             </li>
