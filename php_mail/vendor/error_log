@@ -1,0 +1,48 @@
+[23-Mar-2020 19:01:12 UTC] PHP Warning:  require(vendor/phpmailer/phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/sebac283/public_html/login/quizdashboard/vendor/mail.php on line 48
+[23-Mar-2020 19:01:12 UTC] PHP Warning:  require(vendor/phpmailer/phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/sebac283/public_html/login/quizdashboard/vendor/mail.php on line 48
+[23-Mar-2020 19:01:12 UTC] PHP Fatal error:  require(): Failed opening required 'vendor/phpmailer/phpmailer/src/Exception.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/sebac283/public_html/login/quizdashboard/vendor/mail.php on line 48
+[23-Mar-2020 19:02:05 UTC] PHP Warning:  require(vendor/phpmailer/phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/sebac283/public_html/login/quizdashboard/vendor/mail.php on line 48
+[23-Mar-2020 19:02:05 UTC] PHP Warning:  require(vendor/phpmailer/phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/sebac283/public_html/login/quizdashboard/vendor/mail.php on line 48
+[23-Mar-2020 19:02:05 UTC] PHP Fatal error:  require(): Failed opening required 'vendor/phpmailer/phpmailer/src/Exception.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/sebac283/public_html/login/quizdashboard/vendor/mail.php on line 48
+[23-Mar-2020 19:03:29 UTC] PHP Fatal error:  Cannot use phpmailer\PHPMailer\PHPMailer as PHPMailer because the name is already in use in /home/sebac283/public_html/login/quizdashboard/vendor/mail.php on line 49
+[23-Mar-2020 19:03:33 UTC] PHP Fatal error:  Cannot use phpmailer\PHPMailer\PHPMailer as PHPMailer because the name is already in use in /home/sebac283/public_html/login/quizdashboard/vendor/mail.php on line 49
+[23-Mar-2020 19:03:35 UTC] PHP Fatal error:  Cannot use phpmailer\PHPMailer\PHPMailer as PHPMailer because the name is already in use in /home/sebac283/public_html/login/quizdashboard/vendor/mail.php on line 49
+[23-Mar-2020 19:03:49 UTC] PHP Fatal error:  Uncaught Error: Class 'phpmailer\PHPMailer\src\PHPMailer' not found in /home/sebac283/public_html/login/quizdashboard/vendor/mail.php:62
+Stack trace:
+#0 {main}
+  thrown in /home/sebac283/public_html/login/quizdashboard/vendor/mail.php on line 62
+[23-Mar-2020 19:03:55 UTC] PHP Notice:  Undefined variable: correct in /home/sebac283/public_html/login/quizdashboard/vendor/mail.php on line 198
+[23-Mar-2020 19:04:36 UTC] PHP Notice:  Undefined variable: correct in /home/sebac283/public_html/login/quizdashboard/vendor/mail.php on line 198
+[23-Mar-2020 19:06:21 UTC] PHP Notice:  Undefined index: id1 in /home/sebac283/public_html/login/quizdashboard/vendor/mail.php on line 24
+[23-Mar-2020 19:06:21 UTC] PHP Notice:  Undefined index: id2 in /home/sebac283/public_html/login/quizdashboard/vendor/mail.php on line 25
+[23-Mar-2020 19:06:21 UTC] PHP Notice:  Undefined index: id3 in /home/sebac283/public_html/login/quizdashboard/vendor/mail.php on line 26
+[24-Mar-2020 08:53:44 UTC] PHP Notice:  Undefined variable: date in /home/sebac283/public_html/login/quizdashboard/vendor/mail.php on line 96
+[24-Mar-2020 08:53:44 UTC] PHP Notice:  Undefined variable: user1 in /home/sebac283/public_html/login/quizdashboard/vendor/mail.php on line 96
+[24-Mar-2020 08:53:44 UTC] PHP Notice:  Undefined variable: email in /home/sebac283/public_html/login/quizdashboard/vendor/mail.php on line 96
+[24-Mar-2020 08:53:44 UTC] PHP Notice:  Undefined variable: user1 in /home/sebac283/public_html/login/quizdashboard/vendor/mail.php on line 97
+[24-Mar-2020 08:53:44 UTC] PHP Notice:  Undefined variable: email in /home/sebac283/public_html/login/quizdashboard/vendor/mail.php on line 97
+[24-Mar-2020 08:54:07 UTC] PHP Notice:  Undefined variable: date in /home/sebac283/public_html/login/quizdashboard/vendor/mail.php on line 96
+[24-Mar-2020 08:54:07 UTC] PHP Notice:  Undefined variable: user1 in /home/sebac283/public_html/login/quizdashboard/vendor/mail.php on line 96
+[24-Mar-2020 08:54:07 UTC] PHP Notice:  Undefined variable: email in /home/sebac283/public_html/login/quizdashboard/vendor/mail.php on line 96
+[24-Mar-2020 08:54:07 UTC] PHP Notice:  Undefined variable: user1 in /home/sebac283/public_html/login/quizdashboard/vendor/mail.php on line 97
+[24-Mar-2020 08:54:07 UTC] PHP Notice:  Undefined variable: email in /home/sebac283/public_html/login/quizdashboard/vendor/mail.php on line 97
+[24-Mar-2020 08:55:18 UTC] PHP Notice:  Undefined variable: user1 in /home/sebac283/public_html/login/quizdashboard/vendor/mail.php on line 99
+[24-Mar-2020 08:55:18 UTC] PHP Notice:  Undefined variable: email in /home/sebac283/public_html/login/quizdashboard/vendor/mail.php on line 99
+[24-Mar-2020 08:55:18 UTC] PHP Notice:  Undefined variable: user1 in /home/sebac283/public_html/login/quizdashboard/vendor/mail.php on line 100
+[24-Mar-2020 08:55:18 UTC] PHP Notice:  Undefined variable: email in /home/sebac283/public_html/login/quizdashboard/vendor/mail.php on line 100
+[24-Mar-2020 09:01:23 UTC] PHP Notice:  Undefined variable: user1 in /home/sebac283/public_html/login/quizdashboard/vendor/mail.php on line 106
+[24-Mar-2020 09:01:23 UTC] PHP Notice:  Undefined variable: email in /home/sebac283/public_html/login/quizdashboard/vendor/mail.php on line 106
+[24-Mar-2020 09:01:23 UTC] PHP Notice:  Undefined variable: user1 in /home/sebac283/public_html/login/quizdashboard/vendor/mail.php on line 107
+[24-Mar-2020 09:01:23 UTC] PHP Notice:  Undefined variable: email in /home/sebac283/public_html/login/quizdashboard/vendor/mail.php on line 107
+[24-Mar-2020 09:02:32 UTC] PHP Notice:  Undefined variable: user1 in /home/sebac283/public_html/login/quizdashboard/vendor/mail.php on line 106
+[24-Mar-2020 09:02:32 UTC] PHP Notice:  Undefined variable: email in /home/sebac283/public_html/login/quizdashboard/vendor/mail.php on line 106
+[24-Mar-2020 09:02:32 UTC] PHP Notice:  Undefined variable: user1 in /home/sebac283/public_html/login/quizdashboard/vendor/mail.php on line 107
+[24-Mar-2020 09:02:32 UTC] PHP Notice:  Undefined variable: email in /home/sebac283/public_html/login/quizdashboard/vendor/mail.php on line 107
+[24-Mar-2020 09:07:18 UTC] PHP Notice:  Undefined variable: user1 in /home/sebac283/public_html/login/quizdashboard/vendor/mail.php on line 114
+[24-Mar-2020 09:07:18 UTC] PHP Notice:  Undefined variable: email in /home/sebac283/public_html/login/quizdashboard/vendor/mail.php on line 114
+[24-Mar-2020 09:07:18 UTC] PHP Notice:  Undefined variable: user1 in /home/sebac283/public_html/login/quizdashboard/vendor/mail.php on line 115
+[24-Mar-2020 09:07:18 UTC] PHP Notice:  Undefined variable: email in /home/sebac283/public_html/login/quizdashboard/vendor/mail.php on line 115
+[24-Mar-2020 09:13:55 UTC] PHP Notice:  Undefined variable: user1 in /home/sebac283/public_html/login/quizdashboard/vendor/mail.php on line 114
+[24-Mar-2020 09:13:55 UTC] PHP Notice:  Undefined variable: email in /home/sebac283/public_html/login/quizdashboard/vendor/mail.php on line 114
+[24-Mar-2020 09:13:55 UTC] PHP Notice:  Undefined variable: user1 in /home/sebac283/public_html/login/quizdashboard/vendor/mail.php on line 115
+[24-Mar-2020 09:13:55 UTC] PHP Notice:  Undefined variable: email in /home/sebac283/public_html/login/quizdashboard/vendor/mail.php on line 115
