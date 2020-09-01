@@ -180,7 +180,7 @@
 									<b class="is-visible">Partnering</b>
 									<!-- <b>Developing</b> -->
 								</span>
-								<span> With...</span>
+								<span> With Our Business Partners...</span>
 							</h2>
                         <h4 class="text-primary lead tall text-4"></h4>
                     </div>
