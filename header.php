@@ -97,7 +97,7 @@
                             <div class="header-row">
                                 <div class="header-logo">
                                     <a href="index.php">
-                                        <img alt="Porto" width="120" height="75" data-sticky-width="102" data-sticky-height="60" src="img/logosa.png">
+                                        <!-- <img alt="Porto" width="120" height="75" data-sticky-width="102" data-sticky-height="60" src="img/logosa.png"> -->
                                     </a>
                                 </div>
                             </div>
@@ -136,7 +136,7 @@
                                         </nav>
                                     </div>
                                     <ul class="header-social-icons social-icons d-none d-sm-block">
-                                         <li class="social-icons-facebook"><a href="https://www.facebook.com/" target="_blank" title="Facebook"><i class="fab fa-facebook-f"></i></a></li>
+                                         <li class="social-icons-facebook"><a href="https://www.facebook.com/eastafricainsurance" target="_blank" title="Facebook"><i class="fab fa-facebook-f"></i></a></li>
                             <li class="social-icons-twitter"><a href="https://twitter.com/" target="_blank" title="Twitter"><i class="fab fa-twitter"></i></a></li>
                             <li class="
 social-instagram"><a href="https://www.instagram.com/" target="_blank" title="instagram"><i class="fab fa-instagram"></i></a></li>

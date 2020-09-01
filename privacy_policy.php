@@ -23,7 +23,7 @@
 
                 <div class="row">
                     <div class="col">
-                        <p>Inbox Developers (“us”, “we”, or “our”) operates
+                        <!-- <p>Inbox Developers (“us”, “we”, or “our”) operates
 the https://www.inboxdevelopers.com website (the “Service”).
 This page guides you to our policies regarding the collection, use, and
 disclosure of personal information when you avail our Service and the
@@ -48,7 +48,7 @@ the desired information about the product preferred by them in right
 time. This helps the customer to save time and facilitate their buying
 process with ease.
 
-</p>
+</p> -->
                         <img class="float-left img-fluid" width="300" height="211" src="https://raihansonline.co.uk/assets/images/privacy-policy.png" alt="Device">
                         <h3>The Information We Collect</h3>
                         <p>
