@@ -220,9 +220,9 @@ developers.</p> -->
 
 
 </p>
-                            <p class="pb-2 mb-4">Our Agency was established in 2016, to transact Medical, General, and Life Insurance and to also provide advisory on Unit Trust and other wealth management solutions. Our staff have insurance sales and management experience, in the insurance and financial services industry, that spans 2 decades. 
+                            <!-- <p class="pb-2 mb-4">Our Agency was established in 2016, to transact Medical, General, and Life Insurance and to also provide advisory on Unit Trust and other wealth management solutions. Our staff have insurance sales and management experience, in the insurance and financial services industry, that spans 2 decades. 
  <br>
-<b>We are therefore very well equipped to deliver solutions that WOW!</b></p>
+<b>We are therefore very well equipped to deliver solutions that WOW!</b></p> -->
                             <a href="products.php" class="btn btn-dark font-weight-semibold btn-py-2 px-5">Our Products</a>
                         </div>
                         <div class="col-9 col-lg-6 order-1 order-lg-2 scale-6 pb-5 pb-lg-0 mt-0 mt-md-4 mb-5 mb-lg-0">
