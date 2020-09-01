@@ -38,7 +38,7 @@
 					</div>
 					<div class="row mb-5">
 						<div class="col">
-							<img class="float-left img-fluid mr-4 mb-3 mt-2 appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="600" width="350" src="img/lifins.png" alt="">
+							<img class="float-left img-fluid mr-4 mb-3 mt-2 appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="600" width="350" src="img/education_Insurance.png" alt="">
 							<p class="appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="800">We help you to create a stable and secure future - Today!</p>
 							
 						</div>
