@@ -59,7 +59,7 @@ social-instagram"><a href="https://www.instagram.com/inboxdevelopers/" target="_
                         <div class="container py-2">
                     <div class="row py-4">
                         <div class="col-lg-3 d-flex align-items-center justify-content-center justify-content-lg-start mb-2 mb-lg-0">
-                            <!-- <a href="index-2.html" class="logo pr-0 pr-lg-3"> <img alt="Porto Website Template" src="img/logosa.png" class="opacity-5" height="63" width="63"> </a> -->
+                            <a href="index-2.html" class="logo pr-0 pr-lg-3"> <img alt="Porto Website Template" src="img/logosa.png" class="opacity-5" height="63" width="63"> </a>
                         </div>
                         <div class="col-lg-9 d-flex align-items-center justify-content-center justify-content-lg-start mb-4 mb-lg-0">
                             <p>Powered By <a href="https://esurance365.com/">esurance365.com</a></p>
