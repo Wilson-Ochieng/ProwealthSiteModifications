@@ -98,7 +98,7 @@
 <center>
      <h2 class="font-weight-normal text-6 mb-3"><strong class="font-weight-extra-bold">Our </strong>Values</h2>
      <hr>
-                                    <img class="img-fluid scale-2 my-4" src="img/aboutv.png" alt="style switcher" />
+                                    <img class="img-fluid scale-2 my-4" src="img/cvs1.png" alt="style switcher" />
                                     </center>
                                 </div>
                             </div>
