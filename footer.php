@@ -48,10 +48,10 @@ the homepage</p>
                     <div class="col-md-6 col-lg-4">
                         <h5 style="color: black;" class="text-3 mb-3">FOLLOW US</h5>
                         <ul class="social-icons">
-                            <li class="social-icons-facebook"><a href="https://www.facebook.com/inboxdevelopers/" target="_blank" title="Facebook"><i class="fab fa-facebook-f"></i></a></li>
-                            <li class="social-icons-twitter"><a href="https://twitter.com/inboxdevelopers" target="_blank" title="Twitter"><i class="fab fa-twitter"></i></a></li>
+                            <li class="social-icons-facebook"><a href="https://www.facebook.com/eastafricainsurance" target="_blank" title="Facebook"><i class="fab fa-facebook-f"></i></a></li>
+                            <li class="social-icons-twitter"><a href="https://www.facebook.com/eastafricainsurance" target="_blank" title="Twitter"><i class="fab fa-twitter"></i></a></li>
                             <li class="
-social-instagram"><a href="https://www.instagram.com/inboxdevelopers/" target="_blank" title="instagram"><i class="fab fa-instagram"></i></a></li>
+social-instagram"><a href="https://www.facebook.com/eastafricainsurance" target="_blank" title="instagram"><i class="fab fa-instagram"></i></a></li>
                         </ul>
                     </div>
 

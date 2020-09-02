@@ -34,7 +34,7 @@
 					<div class="row mb-5">
 						<div class="col">
                             <img class="float-center img-fluid mr-4 mb-3 mt-2 appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="60" width="50" src="img/logosa.png" alt="">
-                            <br><a href="https://www.prowealthinsure.com">www.prowealthinsure.com</a></br>
+                            <br style="color:white"><a href="https://www.prowealthinsure.com">www.prowealthinsure.com</a></br>
 							<!-- <p class="appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="800"><b>You labour to acquire it. We protect it for you!</b> </p>
 							 -->
 						</div>
