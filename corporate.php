@@ -8,7 +8,7 @@
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">	
 
-		<title>PROWEALTH Insurance | Corporate</title>	
+		<title>PROWEALTH Insurance | corporate</title>	
 
 		<meta name="keywords" content="HTML5 Template" />
 		<meta name="description" content="Porto - Responsive HTML5 Template">
@@ -18,11 +18,11 @@
 
 			<div role="main" class="main">
 				
-			<section class="page-header page-header-modern page-header-background page-header-background-md parallax my-0" data-plugin-parallax data-plugin-options="{'speed': 1.5}" data-image-src="https://acalinsurance.co.ke/assets/image/gallery/female-graduate.jpg">
+			<section class="section bg-color-grey section-height-3 border-0 mt-5 mb-0">
 				<div class="container">
 					<div class="row">
 						<div class="col-md-12 align-self-center p-static order-2 text-center">
-							<h1 class="custom-primary-font text-11 font-weight-light">corporate</h1>
+							<h1 class="custom-primary-font text-11 font-weight-light">Corporate</h1>
 						</div>
 					</div>
 				</div>
@@ -30,23 +30,17 @@
 
 			<section class="section bg-color-light custom-padding-3 border-0 my-0">
 				<div class="container">
-					<div class="row text-center mb-5">
-						<div class="col">
-							<h2 class="custom-primary-font text-center custom-fontsize-3 font-weight-normal appear-animation" data-appear-animation="fadeInUpShorter">corporate</h2>
-							
-						</div>
-					</div>
+					
 					<div class="row mb-5">
 						<div class="col">
-							<img class="float-left img-fluid mr-4 mb-3 mt-2 appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="600" width="350" src="img/education_Insurance.png" alt="">
-							<p class="appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="800">We help you to create a stable and secure future - Today!</p>
-							
+                            <img class="float-center img-fluid mr-4 mb-3 mt-2 appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="60" width="50" src="img/logosa.png" alt="">
+                            <br><a href="www.esurance365.com">www.esurance365.com</a></br>
+							<!-- <p class="appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="800"><b>You labour to acquire it. We protect it for you!</b> </p>
+							 -->
 						</div>
 					</div>
 					<div class="row text-center">
-						<div class="col">
-							<a href="contactt.php" class="btn btn-secondary font-weight-semibold custom-btn-style-1 text-4 py-3 px-5">GET A QUOTE TODAY</a>
-						</div>
+						
 					</div>
 				</div>
 			</section>
@@ -55,4 +49,5 @@
 
 	</body>
 
+<!-- Mirrored from preview.oklerthemes.com/porto/8.0.0/demo-insurance-insurances-detail.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 24 Mar 2020 17:25:19 GMT -->
 </html>
