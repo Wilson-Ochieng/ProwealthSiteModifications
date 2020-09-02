@@ -18,7 +18,7 @@
 
 			<div role="main" class="main">
 				
-			<section class="section bg-color-grey section-height-3 border-0 mt-5 mb-0">
+			<section class="page-header page-header-modern page-header-background page-header-background-md parallax my-0" data-plugin-parallax data-plugin-options="{'speed': 1.5}" data-image-src="img/corporate.jpg">
 				<div class="container">
 					<div class="row">
 						<div class="col-md-12 align-self-center p-static order-2 text-center">
