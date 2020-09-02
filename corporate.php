@@ -28,7 +28,7 @@
 				</div>
 			</section>
 
-			<section class="section bg-color-light custom-padding-3 border-0 my-0">
+			<section class="cprt-bg-cl  custom-padding-3 border-0 my-0">
 				<div class="container">
 					
 					<div class="row mb-5">
