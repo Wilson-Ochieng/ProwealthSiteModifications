@@ -279,7 +279,7 @@ We protect it for you!
                   <div style="background: #1a2b4c;padding: 50px;" class="col-sm-10 col-md-7 col-lg-3 mb-4 mb-lg-0">
                      
                              <center>
-                              <h2 class="customc font-weight-normal text-5"><strong class="font-weight-extra-bold">Wealth And Investment Insurance</strong></h2>
+                              <h2 class="customc font-weight-normal text-5"><strong class="font-weight-extra-bold">Wealth And Investment Advisory</strong></h2>
                               <!-- <p class="customc mb-0">Your eggs in different baskets... watch as they hatch!</p> -->
                               <a style="background: white;" href="wealth-investment.php" class="customc btn btn-light btn-outline font-weight-semibold text-color-dark btn-px-5 btn-py-2 border-width-1 text-1 mt-3">READ MORE</a>
                               </center>
