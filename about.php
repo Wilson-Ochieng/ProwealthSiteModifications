@@ -176,7 +176,7 @@
                     <div class="col">
                         <h2 class="word-rotator slide font-weight-bold text-8 mb-2">
 								<span>Our </span>
-								<span class="word-rotator-words bg-primary">
+								<span class="">
 									<b class="is-visible">Business</b>
 									<!-- <b>Developing</b> -->
 								</span>
