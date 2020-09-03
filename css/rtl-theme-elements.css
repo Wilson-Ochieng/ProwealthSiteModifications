@@ -13849,6 +13849,8 @@ html.boxed section.video > div:first-child video {
 
 .word-rotator-words b.is-visible {
 	position: relative;
+	background: #0087CB
+	!important;
 }
 
 .word-rotator-words[class*="bg-"] {

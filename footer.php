@@ -1,6 +1,6 @@
 <footer  style="background: #eaeaea; margin-bottom: -10px !important;" id="footer">
             <div style="background: #eaeaea;" class="container">
-                <div  class="footer-ribbon"> <span>Get in Touch</span> </div>
+                <!-- <div  class="footer-ribbon"> <span>Get in Touch</span> </div> -->
                 <div class="row py-5 my-4">
                     <!-- <div class="col-md-6 col-lg-4 mb-4 mb-lg-0">
                         <h5 class="text-3 mb-3">NEWSLETTER</h5>
@@ -30,29 +30,29 @@ the homepage</p>
                         </div>
                     </div> -->
                     <div class="col-md-6 col-lg-4 mb-4 mb-md-0">
-                        <div class="contact-details">
+                        <!-- <div class="contact-details">
                             <h5 style="color: black;" class="text-3 mb-3">CONTACT US</h5>
                             <ul class="list list-icons list-icons-lg">
                                 <li class="mb-1"><i class="far fa-dot-circle text-color-primary"></i>
-                                    <p class="m-0">Vedic House - Mama Ngina Street, 5th Floor Next to Queensway House</p>
+                                    <p class="m-0"></p>
                                 </li>
                                 <li class="mb-1"><i class="fab fa-whatsapp text-color-primary"></i>
-                                    <p class="m-0"><a href="tel:0729 111 442">0729 111 442</a></p>
+                                    <p class="m-0"><a href="tel:0729 111 442"></a></p>
                                 </li>
                                 <li class="mb-1"><i class="far fa-envelope text-color-primary"></i>
-                                    <p class="m-0"><a href="mailto:mail@example.com">prowealthinsure@gmail.com</a></p>
+                                    <p class="m-0"><a href="mailto:mail@example.com"></a></p>
                                 </li>
                             </ul>
-                        </div>
+                        </div> -->
                     </div>
                     <div class="col-md-6 col-lg-4">
-                        <h5 style="color: black;" class="text-3 mb-3">FOLLOW US</h5>
+                        <!-- <h5 style="color: black;" class="text-3 mb-3">FOLLOW US</h5>
                         <ul class="social-icons">
                             <li class="social-icons-facebook"><a href="https://www.facebook.com/eastafricainsurance" target="_blank" title="Facebook"><i class="fab fa-facebook-f"></i></a></li>
                             <li class="social-icons-twitter"><a href="https://www.facebook.com/eastafricainsurance" target="_blank" title="Twitter"><i class="fab fa-twitter"></i></a></li>
                             <li class="
 social-instagram"><a href="https://www.facebook.com/eastafricainsurance" target="_blank" title="instagram"><i class="fab fa-instagram"></i></a></li>
-                        </ul>
+                        </ul> -->
                     </div>
 
                      <div class="col-md-6 col-lg-4">
