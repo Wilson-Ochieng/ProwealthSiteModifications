@@ -175,12 +175,12 @@
                 <div class="row text-center pt-4 mt-5">
                     <div class="col">
                         <h2 class="word-rotator slide font-weight-bold text-8 mb-2">
-								<span>We're </span>
+								<span>Our </span>
 								<span class="word-rotator-words bg-primary">
-									<b class="is-visible">Partnering</b>
+									<b class="is-visible">Business</b>
 									<!-- <b>Developing</b> -->
 								</span>
-								<span> With Our Business Partners...</span>
+								<span> Partners...</span>
 							</h2>
                         <h4 class="text-primary lead tall text-4"></h4>
                     </div>
