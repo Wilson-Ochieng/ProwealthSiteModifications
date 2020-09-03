@@ -13852,7 +13852,8 @@ html.boxed section.video > div:first-child video {
 }
 
 .word-rotator-words[class*="bg-"] {
-	background: #CCC;
+	background: #0087CB
+	!important;
 }
 
 .word-rotator-words[class*="bg-"] b {
