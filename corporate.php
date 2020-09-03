@@ -22,14 +22,33 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-md-12 align-self-center p-static order-2 text-center">
-							<h1 class="custom-primary-font text-11 font-weight-light">Corporate</h1>
+							<h1 class="custom-primary-font text-11 font-weight-light"></h1>
 						</div>
 					</div>
 				</div>
 			</section>
+			<div style="background: #0087cb;" class="home-intro" id="home-intro">
+                <div class="container">
 
+                    <div class="row align-items-center">
+                        <div class="col text-center">
+                            <p class="mb-0">
+							
+							<img class="float-left img-fluid mr-4 mb-3 mt-2 appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="600" width="90" src="img/logosa.png" alt="">
+							
+							<!-- <p class="appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="800">The delivery of More!</p> -->
+							<span>www.prowealthinsure.com</span>
+							<span>The delivery of more!</span>
+ 
+                               
+                            </p>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
 			<section class="cprt-bg-cl  custom-padding-3 border-0 my-0">
-				<div class="container">
+				
 					
 					<div class="row mb-5">
 						<div class="col">
@@ -42,7 +61,7 @@
 					<div class="row text-center">
 						
 					</div>
-				</div>
+			
 			</section>
 
 			<?php include'footer.php'; ?>

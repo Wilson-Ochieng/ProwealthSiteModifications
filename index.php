@@ -106,7 +106,7 @@
                     <div class="col-md-10 mx-md-auto">
                         <h1 class="word-rotator slide font-weight-bold text-8 mb-3 appear-animation" data-appear-animation="fadeInUpShorter">
 								<span>Client-focused, Tailor-made, Budget friendly,Insurance and Investment plans SERVED with: </span>
-								<span class="word-rotator-words bg-primary">
+								<span class="">
 									<b class="is-visible">Honour, Integrity & Professionalism</b>
 									
 								</span>

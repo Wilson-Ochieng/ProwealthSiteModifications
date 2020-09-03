@@ -11,8 +11,8 @@
 
     <title>PROWEALTH INSURANCE</title>
 
-    <meta name="keywords" content="HTML5 Template" />
-    <meta name="description" content="Porto - Responsive HTML5 Template">
+    <meta name="keywords" content="Prowealth Insurance Agency" />
+    <meta name="description" content="Prowealth Insurance Agency">
     <meta name="author" content="okler.net">
 
     <!-- Favicon -->
