@@ -42,7 +42,7 @@
 					</div>
 					<div class="row text-center">
 						<div class="col">
-							<a href="contactt.php" class="btn btn-secondary font-weight-semibold custom-btn-style-1 text-4 py-3 px-5">GET A QUOTE TODAY</a>
+							<a href="contact.php" class="btn btn-secondary font-weight-semibold custom-btn-style-1 text-4 py-3 px-5">GET A QUOTE TODAY</a>
 						</div>
 					</div>
 				</div>
