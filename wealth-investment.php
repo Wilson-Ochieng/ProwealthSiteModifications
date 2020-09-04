@@ -22,7 +22,7 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-md-12 align-self-center p-static order-2 text-center">
-							<h1 class="custom-primary-font text-11 font-weight-light">Wealth and Investment Insurance</h1>
+							<h1 class="custom-primary-font text-11 font-weight-light">Wealth and Investment Advisory</h1>
 						</div>
 					</div>
 				</div>
