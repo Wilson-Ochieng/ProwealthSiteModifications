@@ -67,7 +67,7 @@
             </li>
 
              <li data-transition="fade">
-              <img src="img/motor.jpg"  
+              <img src="img/cars.png"  
                 alt=""
                 data-bgposition="center center" 
                 data-bgfit="cover" 
