@@ -18,7 +18,7 @@
 
 			<div role="main" class="main">
 				
-			<section class="page-header page-header-modern page-header-background page-header-background-md parallax my-0" data-plugin-parallax data-plugin-options="{'speed': 1.5}" data-image-src="img/corporate.jpg">
+			<!-- <section class="page-header page-header-modern page-header-background page-header-background-md parallax my-0" data-plugin-parallax data-plugin-options="{'speed': 1.5}" data-image-src="img/corporate.jpg">
 				<div class="container">
 					<div class="row">
 						<div class="col-md-12 align-self-center p-static order-2 text-center">
@@ -26,7 +26,7 @@
 						</div>
 					</div>
 				</div>
-			</section>
+			</section> -->
 			<div style="background: #0087cb;" class="home-intro" id="home-intro">
                 <div class="container">
 
@@ -34,11 +34,11 @@
                         <div class="col text-center">
                             <p class="mb-0">
 							
-							<img class="float-left img-fluid mr-4 mb-3 mt-2 appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="600" width="90" src="img/logosa.png" alt="">
+							<span class="float-center"><img class=" img-fluid mr-4 mb-3 mt-2 appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="600" width="90" src="img/logosa.png" alt=""></span>
 							
 							<!-- <p class="appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="800">The delivery of More!</p> -->
-							<span>www.prowealthinsure.com</span>
-							<span>The delivery of more!</span>
+							<span class="float-center">www.prowealthinsure.com</span>
+							<span class="float-center">The delivery of more!</span>
  
                                
                             </p>
