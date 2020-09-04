@@ -38,7 +38,7 @@
 							
 							<!-- <p class="appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="800">The delivery of More!</p> -->
 							<span class="float-center">www.prowealthinsure.com</span>
-							<span class="float-center">"...The delivery of MORE!!</span>
+							<span class="float-center">"...The delivery of MORE!!"</span>
  
                                
                             </p>
