@@ -86,7 +86,7 @@
             </li>
 
              <li data-transition="fade">
-              <img src="img/insurance_img/medical.jpg"  
+              <img src="img/mins.jpg"  
                 alt=""
                 data-bgposition="center center" 
                 data-bgfit="cover" 
