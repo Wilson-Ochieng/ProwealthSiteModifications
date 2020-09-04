@@ -82,22 +82,7 @@
               
 
             </div>
-            <div style="background: #0087cb;" class="home-intro" id="home-intro">
-                <div class="container">
-
-                    <div class="row align-items-center">
-                        <div class="col text-center">
-                            <p class="mb-0">
-                               <!-- KARIBU... Enjoy fantastic feelings & wow experiences, from your Insurance & Investment decisions - Here!" <br><br> -->
- 
- <!-- <span style="color: #0087cb !important;" class="highlighted-word highlighted-word-animation-1 text-color-primary font-weight-semibold text-5">deliver WOW outcomes!</span><br><br>
-                                <span>Need some advice? We get it, and we’re here to help.</span> -->
-                            </p>
-                        </div>
-                    </div>
-
-                </div>
-            </div>
+            
 
             <div class="container py-5 my-4">
                 <div class="row text-center py-3">
