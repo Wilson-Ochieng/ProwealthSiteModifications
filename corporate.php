@@ -27,7 +27,7 @@
 					</div>
 				</div>
 			</section> -->
-			<div style="background: #053960;" class="home-intro" id="home-intro">
+			<div style="background: #020166;" class="home-intro" id="home-intro">
                 <div class="container">
 
                     <div class="row align-items-center">
