@@ -30,7 +30,16 @@
 
 			<section class="section bg-color-light custom-padding-3 border-0 my-0">
 				<div class="container">
-					<div class="row text-center mb-5">
+				<div class="row mb-5">
+						<div class="col">
+							<img class="float-left img-fluid mr-4 mb-3 mt-2 appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="100" width="150" src="img/education_Insurance.png" alt="">
+							<p class="appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="800"><b>
+							We help you to create a stable and secure future - Today!</b>
+</p>
+							
+						</div>
+					</div>
+					<!-- <div class="row text-center mb-5">
 						<div class="col">
 							<h2 class="custom-primary-font text-center custom-fontsize-3 font-weight-normal appear-animation" data-appear-animation="fadeInUpShorter">Life And Education</h2>
 							
@@ -42,7 +51,7 @@
 							<p class="appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="800">We help you to create a stable and secure future - Today!</p>
 							
 						</div>
-					</div>
+					</div> -->
 					<div class="row text-center">
 						<div class="col">
 							<a href="contact.php" class="btn btn-secondary font-weight-semibold custom-btn-style-1 text-4 py-3 px-5">GET A QUOTE TODAY</a>
