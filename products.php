@@ -38,7 +38,7 @@
 
          <center>     <h1 style="color: white;" class="tp-caption text-uppercase font-weight-bold"
                 data-x="center" data-hoffset="['15', '15', '35', '35']"
-                data-y="center" data-voffset="-40"
+                data-y="center" data-voffset="-115"
                 data-start="800" 
                 data-fontsize="40"
                 style="letter-spacing: -2px;" 
@@ -57,7 +57,7 @@
 
          <center>     <h1 style="color: white;" class="tp-caption text-uppercase font-weight-bold"
                 data-x="center" data-hoffset="['15', '15', '35', '35']"
-                data-y="center" data-voffset="-40"
+                data-y="center" data-voffset="-250"
                 data-start="800" 
                 data-fontsize="40"
                 style="letter-spacing: -2px;" 
@@ -76,7 +76,7 @@
 
          <center>     <h1 style="color: white;" class="tp-caption text-uppercase font-weight-bold"
                 data-x="center" data-hoffset="['15', '15', '35', '35']"
-                data-y="center" data-voffset="-40"
+                data-y="center" data-voffset="-200"
                 data-start="800" 
                 data-fontsize="40"
                 style="letter-spacing: -2px;" 
@@ -95,7 +95,7 @@
 
          <center>     <h1 style="color: white;" class="tp-caption text-uppercase font-weight-bold"
                 data-x="center" data-hoffset="['15', '15', '35', '35']"
-                data-y="center" data-voffset="-40"
+                data-y="center" data-voffset="-250"
                 data-start="800" 
                 data-fontsize="40"
                 style="letter-spacing: -2px;" 
@@ -114,7 +114,7 @@
 
          <center>     <h1 style="color: white;" class="tp-caption text-uppercase font-weight-bold"
                 data-x="center" data-hoffset="['15', '15', '35', '35']"
-                data-y="center" data-voffset="-40"
+                data-y="center" data-voffset="-250"
                 data-start="800" 
                 data-fontsize="40"
                 style="letter-spacing: -2px;" 
