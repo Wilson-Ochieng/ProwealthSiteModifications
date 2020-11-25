@@ -80,7 +80,7 @@
 					<div class="col-lg-7 appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="400">
 						<p class="lead mb-4 mt-4">How may we serve you today?</p>
 
-						<form id="contactForm" class="contact-form" action="https://preview.oklerthemes.com/porto/8.0.0/php/contact-form.php" method="POST">
+						<form id="contactForm" class="contact-form" action="mailto:prowealthinsure@gmail.com" method="POST" enctype="text/plain">
 							<div class="contact-form-success alert alert-success d-none mt-4" id="contactSuccess">
 								<strong>Success!</strong> Your message has been sent to us.
 							</div>
